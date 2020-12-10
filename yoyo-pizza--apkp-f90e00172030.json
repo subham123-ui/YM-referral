@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "yoyo-pizza--apkp",
+  "private_key_id": "f90e001720303eec035743036bb0a11ef7f18f42",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmYF+P0HhkC6/w\nJTttgk84jCa+6n4QKm7wqLcNmZTiWWI+WXj7wVz4FUN4AnhFBlnVbPmxSolTjzVn\n+XCTtpsGY5j8RSuYxyWMvKagrmUKUAEw1A2X6M32hlw9KqcC8NWw59c4iBzOTAwz\nonTAUgboQaphtUt+pVj1KF9hjp+0cVfkeAlG4bUxnH8UV4pL9vdojVYxbQKmUT7X\nnytYLaXsLDvHl/v0sqVxoiRWJEuqxJiLppxOH72kEu0pWjlyT6RKDKPynIHKSlt3\nf9zEwwPI0qUiRzOQ2Yy2wCS7F/IWkJaNFmV7vk1EeY3GYdO/ZLSgsZKRd5WnC7mW\nWLJVyqfDAgMBAAECggEABGWD5kqAK/CidRT0ID2Id2Toud8mIVTlupv9aQbCcvAh\naFFioOXSsvGTkgPKsX7soncElXqel2PaPvBOA8aYYSUCTBmjKyCJbacnO2lwXRiR\nIiewYO/I0Ddruj1leBlCJFsetQKPyaR5JrzScKnvlHVLxH+PH6kh6SnodK0EAQzP\nbIkSCVj9x4NfPDVhx26cQT+Up5f2r4SW1TFIvpz7KOddKZLZQU/M2dTESB9Gz8a8\nEBHa6HWmMGn0OnX/wZbKGkQDiUUYuAtp4G1nZd3fGisRT3+yqvtg0WKhsD78vqMy\nR6tCwSlF+lttdOneVUntG6t8gdbMVxRiBpAbKEuHdQKBgQDjFw2uHR7A0vvQy++A\n0XWXo64K3CrDXc6UZk7+9SYhwkitfdN1x/vIOe1nScVGJ7uv99dgGJDZyWZhkThB\nk/NeIIvgx4qvZRQcu8yU8NaFgMDr74hx2gYypI1BvdkAKe3EznBj9+LBMHBnqMFS\neX5fDyriwciDwpodszZKDhtbfQKBgQC7jqRXHDUNkoPLZDqCnrzYF0gc9zP3Rdu5\nk8M8cMSWVoChMZjxRXdNUeCf2HpHjhb/9j7LISaIGQhxnXhJrJAbI2aHaCx0rl0C\nnldWbApO7ITN+1YAXQSbBhXBVDZMhQwg+Lxc2th/DQDsUR5vnCOe+L1tkHhf4rX8\nIFAAgAz0PwKBgDoRTQg2ngSEbqunWijAZqdNzVUtkym9tPMxbgW3vfZn7ZmfUREP\nAAzk8xW0QWN9CXsnjsUdwvxNiYZtUctC/7oT7HCf1ZCf8hKe2uNC6jfdAnfSGjuy\nml8cwJoM544pKolmmEqXuj3YGwYGmthyBKReBoNRNeqrOilaCAnLracpAoGAfAVu\nlkuIqVjg3XWBWy4sIZgDj2PHcRM4oBYdW7IVzHOWywBI6gHNScuChTBYa0iB3O+v\nxhI9sHEdLEO8brs07z0RZyhzfRRvXHPnvLXkexvbFXnE/KiFix0S9awB28d+pa7U\nn3H3BsxKd/mL7rGIvG4ulGybrIv1WqrjO/Fwn3ECgYEApXQi6Svxyg8eUFB+Os37\nvjzDbZ8YycfSkWXQvldsp9Sm+QPxPuInDYI7CWtYtCxkI+GYSCKOhhSLUXv1rJK8\niTlV4fuIc0R5fclHVlDR8oUWwbxHsGG6NTQ8tYO5VFMaUT6hROM4U9n4yEj7f2iU\n56gkc10hT4sndxBoyX0G8EA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pizza-order@yoyo-pizza--apkp.iam.gserviceaccount.com",
+  "client_id": "103929455226289306945",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pizza-order%40yoyo-pizza--apkp.iam.gserviceaccount.com"
+}
